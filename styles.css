@@ -106,7 +106,7 @@ button {
   display: block;
   width: auto;
   max-width: 150px;
-  height: 48px;
+  height: 86px;
   object-fit: contain;
 }
 
@@ -264,6 +264,10 @@ button {
   font-size: 0.78rem;
   font-weight: 950;
   text-transform: uppercase;
+}
+
+.hero .eyebrow {
+  color: #fff;
 }
 
 .hero h1,
@@ -973,7 +977,7 @@ textarea:focus {
 
   .brand-logo {
     max-width: 120px;
-    height: 40px;
+    height: 64px;
   }
 
   .header-actions {
